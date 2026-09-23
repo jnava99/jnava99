@@ -54,10 +54,10 @@
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 📈 GitHub Stats
+### 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnava99&show_icons=true&theme=default&hide_title=false" alt="Jonathan's GitHub stats" />
+  <img src="https://img.shields.io/github/followers/jnava99?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ### 📫 Let's Connect
