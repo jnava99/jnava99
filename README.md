@@ -57,7 +57,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_title=false" alt="Jonathan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jnava99&show_icons=true&theme=default&hide_title=false" />
 </p>
 
 ### 📫 Let's Connect
@@ -71,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jnava99&color=blue" />
 </p>
