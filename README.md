@@ -56,9 +56,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnava99&show_icons=true&theme=default&hide_title=false" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jnava99&show_icons=true&theme=default&hide_title=false" alt="Jonathan's GitHub stats" /> </p>
 
 ### 📫 Let's Connect
 
