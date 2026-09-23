@@ -56,7 +56,9 @@
 
 ### 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jnava99&show_icons=true&theme=default&hide_title=false" alt="Jonathan's GitHub stats" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jnava99&show_icons=true&theme=default&hide_title=false" alt="Jonathan's GitHub stats" />
+</p>
 
 ### 📫 Let's Connect
 
@@ -69,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jnava99&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=jnava99&color=blue" alt="Profile views" />
 </p>
