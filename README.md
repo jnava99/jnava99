@@ -23,6 +23,11 @@
 - 👀 Open to new opportunities in **Technical Support, Customer Success, and Incident Management**
 - 🌱 Building out my data/analytics toolkit — Python, SQL, and Power BI
 
+### 💼 Featured Projects
+
+- **[Support Ticket SQL Analytics](https://github.com/jnava99/support-ticket-sql-analysis)** — SQL project analyzing a synthetic support-ticket dataset: SLA compliance, agent workload, and monthly trends across 8 annotated queries.
+- **[Support Ticket Python Analytics & SLA Monitor](https://github.com/jnava99/support-ticket-python-analytics)** — Companion Python/pandas project: the same dataset analyzed with charts, plus a script simulating SLA-breach alerting.
+
 ### 🛠️ Tools & Technologies
 
 **Support & CS platforms**
